@@ -1,0 +1,53 @@
+{
+    // editor
+    "editor.bracketPairColorization.enabled": true,
+    "editor.linkedEditing": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    // Set the default
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "biomejs.biome",
+    "editor.cursorBlinking": "phase",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+
+    "material-icon-theme.activeIconPack": "react_redux",
+    "material-icon-theme.hidesExplorerArrows": false,
+    "material-icon-theme.files.associations": {
+      "route.ts": "routing",
+      "page.tsx": "Exe",
+      "prisma.config.ts": "tsconfig",
+      "prisma.config.js": "jsconfig"
+    },
+    "material-icon-theme.folders.associations": {
+      "Schema": "docs",
+      "Schemas": "docs",
+      "schema": "docs",
+      "schemas": "docs",
+      "Entity": "class",
+      "Entitys": "class",
+      "entity": "class",
+      "entitys": "class",
+      "dto": "interface",
+      "dtos": "interface",
+      "redux": "redux-actions",
+      "queries": "scripts",
+      "query": "scripts",
+      "state": "redux-store",
+      "publics": "public",
+      "files": "docs",
+      "file": "public",
+      "codes": "docs",
+      "enum": "interface",
+      "enums": "interface",
+      "front": "client",
+      "(pages)": "views",
+      "(views)": "views",
+      "[...not-found]": "error",
+      "(router)": "routes",
+      "back": "api"
+
+    }
+  }
