@@ -35,7 +35,7 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog√
 | [sass](https://www.npmjs.com/package/sass)    | ^1   |
 | [tailwindcss](https://www.npmjs.com/package/tailwindcss)    | ^3.4 |
 | [react-select](https://www.npmjs.com/package/react-select)    | ^5.8 |
-| [zod.dev](https://www.npmjs.com/package/zod)    | ^3 |
+| [zod](https://www.npmjs.com/package/zod)    | ^3 |
 
 
 ## Back
