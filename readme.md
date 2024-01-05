@@ -55,7 +55,8 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog√
 |----------|-------|
 | [express](https://www.npmjs.com/package/express)    | ^4   |
 | [zod](https://www.npmjs.com/package/zod)    | ^3 |
-| [ORM](https://www.prisma.io/)     | ^7  |
+| [prisma ORM](https://www.prisma.io/)    | ^7  |
+| [next-auth](https://next-auth.js.org/)    | ^4  |
 | [next.js](https://nextjs.org/)    | ^13   |
 
 
@@ -65,7 +66,6 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog√
 
 | nombre | version |
 |----------|-------|
-| [prisma ORM](https://www.prisma.io/)    | ^7  |
 | [socket.io](https://socket.io/)    | ^4  |
 | [Linux, local o servidor](https://www.prisma.io/)    | basado en debian |
 | [cliente http, thunderclient o postman](https://www.prisma.io/)    | ^7  |
