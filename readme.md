@@ -6,7 +6,13 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog�
 
 > NOTE: Todas las tecnologías debes ser usadas con typescript
 
+## Básicas para todos los Dev
 
+| nombre | version |
+|----------|-------|
+| [typescript](https://www.typescriptlang.org/)    | ^5 |
+| [zod](https://www.npmjs.com/package/zod)    | ^3 |
+| [vscode](https://code.visualstudio.com/)    | ^1 |
 
 ## Front
 
@@ -35,7 +41,31 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog�
 | [sass](https://www.npmjs.com/package/sass)    | ^1   |
 | [tailwindcss](https://www.npmjs.com/package/tailwindcss)    | ^3.4 |
 | [react-select](https://www.npmjs.com/package/react-select)    | ^5.8 |
-| [zod](https://www.npmjs.com/package/zod)    | ^3 |
 
 
 ## Back
+
+
+- Las siguientes tecnologías son los conocimientos mínimos necesarios para optar a un cargo de desarrollador Back-end en Latam Earth.
+
+
+### Tecnologías Obligatorias
+
+| nombre | version |
+|----------|-------|
+| [express](https://www.npmjs.com/package/express)    | ^4   |
+| [zod](https://www.npmjs.com/package/zod)    | ^3 |
+| [ORM](https://www.prisma.io/)     | ^7  |
+| [next.js](https://nextjs.org/)    | ^13   |
+
+
+
+
+### Tecnologías adicionales deseables
+
+| nombre | version |
+|----------|-------|
+| [prisma ORM](https://www.prisma.io/)    | ^7  |
+| [socket.io](https://socket.io/)    | ^4  |
+| [Linux, local o servidor](https://www.prisma.io/)    | basado en debian |
+| [cliente http, thunderclient o postman](https://www.prisma.io/)    | ^7  |
