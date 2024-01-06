@@ -1,5 +1,6 @@
 # learning-quest "El camino a las estrellas :rocket: :star2:"
 
+![Descripción de la imagen](./assets/quark-latam-erth-e1654055726587-1024x251.png)
 
 
 Este repositorio tiene como finalidad documentar el stack (conjunto de tecnologías) que se usa en Latam Earth CA, y contener un conjunto de pruebas técnicas para comprobar el nivel de conocimiento de los candidatos a algún puesto en el área de desarrollo de software.
