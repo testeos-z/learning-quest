@@ -36,21 +36,21 @@ ____
 
 Para probar tus conocimientos en el front usando nuestro stack, hemos creado una prueba donde puedes probar tus conocimientos, debes crear una pokédex usando la API ***"[pokeapi.co](https://pokeapi.co/)"***.
 
-> ***NOTE:*** Se bede presentar el proyecto en una URL de muestra y un repositorio de github.
+> ***NOTA:*** Se bede presentar el proyecto en una URL de muestra y en un repositorio de github.
 
 
-## Parametros de la prueba:
+## Parámetros de la prueba:
 
 
-### Funciones
+### Funciones:
 
 1. Tabla dinámica donde se muestran los ítems.
 
-2.  Cada ítem debe estar en sus tarjetas que contengan imagen, id y nombre.
+2.  Cada ítem debe estar en su tarjeta que contengan imagen, id y nombre.
 
-3. Al hacer click se debe mostrar un modal con los datos de ítem.
+3. Al hacer click se debe mostrar un modal con los datos del ítem.
 
-2. ***"Formulario"*** de búsqueda con validación de campos. que te permita filtrar por.
+2. ***"Formulario"*** de búsqueda con validación de campos, que te permita filtrar por:
 
 	- Tipo.
 	- Generación.
