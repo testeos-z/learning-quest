@@ -7,7 +7,7 @@
 - Las siguientes tecnologías son los conocimientos mínimos necesarios para optar a un cargo de desarrollador Front-end en Latam Earth.
 
 
-## Tecnologías Obligatorias
+## Tecnologías obligatorias
 
 | nombre | version |
 |----------|-------|
