@@ -16,7 +16,7 @@ Este repositorio tiene como finalidad documentar el stack (conjunto de tecnolog�
 | [vscode](https://code.visualstudio.com/)    | ^1 |
 
 
-## ¿Deseas postularte? ¿dinos en que area ?
+## ¿Deseas postularte, dinos en qué área ?
 
 > ***NOTE:*** Si presentas un CV con proyectos que ya manejen nuestro stack puedes presentarnos un conjunto de proyectos donde se evidencie ese conocimiento.
 
