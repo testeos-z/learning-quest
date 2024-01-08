@@ -24,7 +24,6 @@
 
 | nombre | version |
 |----------|-------|
-| [axios](https://www.npmjs.com/package/axios)    | ^1.6  |
 | [sass](https://www.npmjs.com/package/sass)    | ^1   |
 | [tailwindcss](https://www.npmjs.com/package/tailwindcss)    | ^3.4 |
 | [react-select](https://www.npmjs.com/package/react-select)    | ^5.8 |
