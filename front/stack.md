@@ -33,7 +33,7 @@ ____
 ## Front Quest:
 
 
-Para probar tus conocimientos en el front usando nuestro stack, hemos creado una prueba donde puedes probar tus conocimientos, debes crear una pokédex usando la API ***"[pokeapi.co](https://pokeapi.co/)"***.
+Para probar tus conocimientos en el front usando nuestro ***stack***, hemos creado una prueba donde puedes probar tus conocimientos, debes crear una pokédex usando la API ***"[pokeapi.co](https://pokeapi.co/)"***.
 
 > ***NOTA:*** Se bede presentar el proyecto en una URL de muestra y en un repositorio de github.
 
