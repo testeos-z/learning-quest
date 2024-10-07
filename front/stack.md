@@ -13,8 +13,8 @@
 |----------|-------|
 | [react](https://react.dev/)    | ^18   |
 | [next.js](https://nextjs.org/)    | ^13   |
+| [shadcn](https://ui.shadcn.com/)    | ^8   |
 | [react-hook-form](https://react-hook-form.com/)    | ^7  |
-| [react-bootstrap](https://react-bootstrap.netlify.app/)    | ^2.9 |
 | [react-query](https://www.npmjs.com/package/@tanstack/react-query)    | ^5   |
 | [react-table](https://www.npmjs.com/package/@tanstack/react-table)    | ^8   |
 
@@ -24,9 +24,9 @@
 
 | nombre | version |
 |----------|-------|
+| [react-bootstrap](https://react-bootstrap.netlify.app/)    | ^2.9 |
 | [sass](https://www.npmjs.com/package/sass)    | ^1   |
 | [tailwindcss](https://www.npmjs.com/package/tailwindcss)    | ^3.4 |
-| [react-select](https://www.npmjs.com/package/react-select)    | ^5.8 |
 
 
 ____
